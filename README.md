@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) application that prioritizes data privacy, low costs, and customizability by processing data locally, using open-source tooling, and utilizing LangChain.
 
-🦾 - RAG is a AI technique used to fetch relevant bits of data from a library to build detailed and accurate responses without only relying on pre-trained knowledge. This means we can reduce hallucinations, manually reference data for response integrity, and easily leverage data the LLM has not been trained on.
+RAG is a AI technique used to fetch relevant bits of data from a library to build detailed and accurate responses without only relying on pre-trained knowledge. This means we can reduce hallucinations, manually reference data for response integrity, and easily leverage data the LLM has not been trained on.
 
 Built with:
 

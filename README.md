@@ -1,6 +1,10 @@
-# PrivacyFirstLocalRAGApp
+# A Privacy First Local RAG App
 
 A Retrieval-Augmented Generation (RAG) application that prioritizes data privacy, low costs, and customizability by processing data locally, using open-source tooling, and utilizing LangChain.
+
+🦾 - RAG is a AI technique used to fetch relevant bits of data from a library to build detailed and accurate responses without only relying on pre-trained knowledge. This means we can reduce hallucinations, manually reference data for response integrity, and easily leverage data the LLM has not been trained on.
+
+🤖 - "LangChain is a framework for developing applications powered by large language models (LLMs)." It simplifies the various stages of a LLM application's lifecycle. It does this by implementing a standard interface for LLMs, embedding models, vector stores and integrates with hundreds of providers.
 
 Built with:
 

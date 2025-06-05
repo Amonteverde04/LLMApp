@@ -6,6 +6,6 @@ Guide:
 - https://python.langchain.com/docs/tutorials/llm_chain/
 
 Built with:
-Python
-LangChain
-Google Gemini - Free Tier
+- Python
+- LangChain
+- Google Gemini - Free Tier

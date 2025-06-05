@@ -23,7 +23,7 @@ prompt_template = ChatPromptTemplate.from_messages(
     [("system", system_template), ("user", "{text}")]
 )
 
-prompt = prompt_template.invoke({"language": "Italian", "text": "hi!"})
+prompt = prompt_template.invoke({"language": "French", "text": "Your mom makes the best spaghetti."})
 
 response = model.invoke(prompt)
 print(response.content)

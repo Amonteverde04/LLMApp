@@ -20,7 +20,7 @@ model = init_chat_model("gemini-2.0-flash", model_provider="google_genai")
 
 messages = [
     SystemMessage("Translate the following from English into Italian"),
-    HumanMessage("hi!"),
+    HumanMessage("Hi. Welcome to the party!"),
 ]
 
 print(model.invoke(messages))
